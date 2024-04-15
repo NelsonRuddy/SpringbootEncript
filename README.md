@@ -1,4 +1,4 @@
-<h1 align="center">:computer: Prueba Ionix  Api:computer:</h1> 
+<h1 align="center">:computer: Ionix | Test Java Developer :computer:</h1> 
 
 <p align="center">Esta prueba esta hecha tal cual se pidio en el requerimiento enviado por el correo, en este readme dejare la solucion para el ultimo ejercicio el cual es teorico </p>
 
