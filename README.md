@@ -1,33 +1,29 @@
-<h1 align="center">:computer: Customer Service Springboot Api:computer:</h1> 
+<h1 align="center">:computer: Prueba Ionix  Api:computer:</h1> 
 
-<p align="center">This is a customer services example where we can see how to implement a CRUD API using JPA repository and DAO patterm  using MapStruct library and using best springboot practices </p>
+<p align="center">Esta prueba esta hecha tal cual se pidio en el requerimiento enviado por el correo, en este readme dejare la solucion para el ultimo ejercicio el cual es teorico </p>
 
 ## Built With :technologist:
 
-- Java 8.1
+- Java 17
+- Springboot 3.3.0
+- Spring Security
 - JPA
-- MapStruct
-- Junit 5
+- ModelMapper
+- Junit
+- Mockito
 - Memory database
 - Swagger
+- MVC
 
 ## PostData:
 
--Swagger documentation access: http://localhost:8080/swagger-ui.html#/ 
+-Swagger documentation access: http://localhost:{PORT}/swagger-ui.html#/ 
 
  ## Links :link:
 - [LinkedIn](https://www.linkedin.com/in/nelson-paulino/ "LinkedIn")
 
-- [Twitter](https://twitter.com/ruddythedd "Twitter")
-
-- [Instagram](https://www.instagram.com/nelson.ruddy/ "Instagram")
 
 ## Author :adult:
 
 **Nelson Paulino**
 
-##  Support 🤝
-
-Contributions, issues :bug:, and feature requests are welcome :mechanic: !
-
-Give a ⭐️ if you like this project!
